@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ky107601&hide=contribs,prs&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ky107601&hide=stars,contribs,prs&theme=cobalt)
 
 
 #프로젝트 정리
